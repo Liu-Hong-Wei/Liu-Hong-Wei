@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Dev
 - 🌱 I’m currently learning React and OS
 - 💞️ I’m looking to collaborate on learning
-- 📫 How to reach me on ...
+- 📫 How to reach me on lhw1953927853@gmail.com
 - 😄 Pronouns: he/him
 
 <!---
